@@ -14,7 +14,7 @@ The original CT images are obtained from the publicly available **IQ-OTHNCCD Lun
 Raw CT images are **not redistributed** in this repository in accordance with dataset ownership and repository policies.
 
 ## Data Availability
-The minimal reproducibility dataset required to replicate the results reported in the manuscript, including patient-wise train/validation/test splits, preprocessing details, and extracted feature representations, is archived on **Figshare**:
+The minimal reproducibility dataset required to replicate the results reported in the manuscript, including patient-wise train/test splits, preprocessing details, and extracted feature representations, is archived on **Figshare**:
 
 **DOI:** [Reproducibility Dataset on Figshare](https://doi.org/10.6084/m9.figshare.31278340)
 
